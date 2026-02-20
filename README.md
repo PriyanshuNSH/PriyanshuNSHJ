@@ -43,6 +43,7 @@ I enjoy learning by building and continuously improving my coding skills.
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PriyanshuNSHJ)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PriyanshuNSHJ" alt="GitHub Streak" /></a>
 
 ### 🔝 Top Contributed Repo
 
