@@ -18,15 +18,11 @@ I enjoy learning by building and continuously improving my coding skills.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-upadhyay-752239326/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snh222024@gmail.com)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/upadhayay_SNPH/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3priyanshu3j)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/snh22pv3n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-upadhyay-752239326/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-badge&logo=gmail&logoColor=white)](mailto:snh222024@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/upadhayay_SNPH/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3priyanshu3j)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/snh22pv3n)
 ---
 
 ## 💻 Tech Stack
