@@ -42,9 +42,7 @@ I enjoy learning by building and continuously improving my coding skills.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PriyanshuNSHJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PriyanshuNSHJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuNSHJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PriyanshuNSHJ)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 
